@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+numba
+jitt
+io
